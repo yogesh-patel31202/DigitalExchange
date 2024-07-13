@@ -1,0 +1,79 @@
+
+<-- ye code slider ke niche lgane ke liye he or isme 3 div he -->
+<section class="small-banner section">
+		<div class="container-fluid">
+			<div class="row">
+				<!-- Single Banner  -->
+				<div class="col-lg-4 col-md-6 col-12">
+					<div class="single-banner">
+						<img src="images/sell/bag2.png" alt="#">
+						
+						<div class="content">
+							<p>Bag Collectons</p>
+							<h3 style="color: white;">Awesome Bag <br> 2020</h3>
+							<a href="#">Shop Now</a>
+						</div>
+					</div>
+				</div>
+				<!-- /End Single Banner  -->
+				<!-- Single Banner  -->
+				<div class="col-lg-4 col-md-6 col-12">
+					<div class="single-banner">
+						<img src="images/sell/cycle.jpg" alt="#">
+						<div class="content">
+							<p>Man's Collectons</p>
+							<h3 style="color: white;">Summer travel <br> collection</h3>
+							<a href="#">Discover Now</a>
+						</div>
+					</div>
+				</div>
+				<!-- /End Single Banner  -->
+				<!-- Single Banner  -->
+				<div class="col-lg-4 col-12">
+					<div class="single-banner tab-height">
+						<img src="images/sell/batti.jpg" alt="#">
+						<div class="content">
+							<p>Flash Sale</p>
+							<h3 style="color: white;">Special batti<br> Up to <span>40%</span> Off</h3>
+							<a href="#">Discover Now</a>
+						</div>
+					</div>
+				</div>
+				<!-- /End Single Banner  -->
+			</div>
+		</div>
+	</section>
+
+
+
+	// ye banner he 
+	<section class="midium-banner">
+		<div class="container">
+			<div class="row">
+				<!-- Single Banner  -->
+				<div class="col-lg-6 col-md-6 col-12">
+					<div class="single-banner">
+						<img src="images/sell/pvc.jpg" alt="#">
+						<div class="content">
+							<p>Man's Collectons</p>
+							<h3>Man's items <br>Up to<span> 50%</span></h3>
+							<a href="#">Shop Now</a>
+						</div>
+					</div>
+				</div>
+				<!-- /End Single Banner  -->
+				<!-- Single Banner  -->
+				<div class="col-lg-6 col-md-6 col-12">
+					<div class="single-banner">
+						<img src="images/sell/laptop.jpg" alt="#">
+						<div class="content">
+							<p>shoes women</p>
+							<h3>mid season <br> up to <span>70%</span></h3>
+							<a href="#" class="btn">Shop Now</a>
+						</div>
+					</div>
+				</div>
+				<!-- /End Single Banner  -->
+			</div>
+		</div>
+	</section>
